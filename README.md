@@ -43,7 +43,7 @@ write_excel_csv(df_final, "Superstore_Final_Clean.csv")
 ​Expansion: Focus regional marketing on identified high-density clusters in the East Region.
 
 ### Dashboard Preview
-![Main Dashboard](Screenshots/dashboard_main.png)
+![Main Dashboard](https://github.com/M-elmojtaba-code/Superstore-Sales-Analysis-R-PowerBI/blob/main/Screenshots/dashboard_main.png?raw=true))
 
 *Figure 1: Overall performance showing the sales spike in March 2014 and regional distribution.*
 
