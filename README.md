@@ -31,7 +31,7 @@ write_excel_csv(data, "Superstore_Final_Clean.csv")
 
 
 
- ## 📊 Phase 2: Interactive Visual Analytics (Power BI)
+ 📊 Phase 2: Interactive Visual Analytics (Power BI)
 ​I built a dynamic dashboard to explore the data across three dimensions: Time, Geography, and Product Category.
 ​🔍 Key Insights:
 ​The Sales Spike: Identified a massive historical peak on March 14, 2014, driven by Corporate B2B bulk orders.
