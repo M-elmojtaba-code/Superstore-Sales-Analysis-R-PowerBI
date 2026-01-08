@@ -43,13 +43,13 @@ write_excel_csv(df_final, "Superstore_Final_Clean.csv")
 ​Expansion: Focus regional marketing on identified high-density clusters in the East Region.
 
 ### Dashboard Preview
-<img width="2560" height="1440" alt="dashboard_main" src="https://github.com/user-attachments/assets/84b9aa0c-079f-459d-aca2-afbf84b0dba2" />
+![Main Dashboard](https://github.com/user-attachments/assets/84b9aa0c-079f-459d-aca2-afbf84b0dba2)
 
 
 *Figure 1: Overall performance showing the sales spike in March 2014 and regional distribution.*
 
 ### Correlation Analysis
-<img width="2560" height="1440" alt="scatter_plot" src="https://github.com/user-attachments/assets/69d641b9-a327-459b-afb3-6ffb93da9afe" />
+![Scatter Plot](https://github.com/user-attachments/assets/69d641b9-a327-459b-afb3-6ffb93da9afe)
 
 
 *Figure 2: Scatter plot demonstrating the negative impact of high discounts on profit.*
