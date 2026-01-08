@@ -51,3 +51,14 @@ write_excel_csv(df_final, "Superstore_Final_Clean.csv")
 ![Scatter Plot](Screenshots/scatter_plot.png)
 
 *Figure 2: Scatter plot demonstrating the negative impact of high discounts on profit.*
+
+
+---
+## 👤 Contact & Connect
+**Project Created by:** [Mohammed El mojtaba]
+
+- **LinkedIn:** [https://linkedin.com/in/mohamedelmojtaba]
+- **GitHub:** [https://github.com/M-elmojtaba-code]
+
+*Feel free to connect with me for any inquiries or data collaborations!*
+
