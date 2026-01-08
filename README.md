@@ -27,7 +27,7 @@ c(sales), profit = as.numeric(profit), discount = as.numeric(discount)) %>%
 > head(df_final)
 
 # Exporting for Power BI
-write_excel_csv(data, "Superstore_Final_Clean.csv")
+write_excel_csv(df_final, "Superstore_Final_Clean.csv")
 
 
 
